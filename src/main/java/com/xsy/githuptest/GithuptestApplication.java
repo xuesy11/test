@@ -10,4 +10,23 @@ public class GithuptestApplication {
         SpringApplication.run(GithuptestApplication.class, args);
     }
 
+
+    static class sj(){
+
+    }
+
+    public void show(){
+       class sj(){
+
+        }
+
+        new object(){
+            public void show(){
+                System.out.println("nighaoo");
+            }
+        }.show();
+
+    }
+
+
 }
